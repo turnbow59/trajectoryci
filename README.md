@@ -205,4 +205,4 @@ Found a specific agent failure mode that TrajectoryCI doesn't catch? Open an iss
 
 ## License
 
-MIT © 2026 turnbow59
+MIT © 2026 Derrick Turnbow
